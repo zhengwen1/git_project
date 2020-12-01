@@ -7,6 +7,8 @@ public class StudentModel {
 	private String password;
 	private int sex;
 	private String love;
+	system.out.println();
+
 	
 	
 }
